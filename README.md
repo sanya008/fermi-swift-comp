@@ -4,3 +4,17 @@ Some statistical remarks on GRBs jointly detected by Fermi and Swift satellites 
 Calculations were made with R version 4.3.1 (2023-06-16 ucrt) & RStudio (2023.06.0 Build 421) under Windows 11 Pro version 22H2.
 
 Used R libraries:
+FNN
+ggplot2
+cowplot
+GGally
+ggExtra
+ggforce
+celestial
+MASS
+xtable
+CCA
+CCP
+corrplot
+mclust
+bootstrap
